@@ -40,7 +40,7 @@ const Hero = () => {
         {/* Right */}
         <div className="flex justify-center">
           <img
-            src="/profile.jpg"
+            src="https://ramameiyappan.github.io/portfolio/profile.jpg"
             alt="Ramameiyappan RM"
             className="w-64 h-64 rounded-3xl object-cover border border-white/20"
           />
