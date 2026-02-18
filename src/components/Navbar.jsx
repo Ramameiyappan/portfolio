@@ -10,7 +10,7 @@ const Navbar = () => {
         <li><a href="#projects" className="hover:text-blue-400">Projects</a></li>
         <li><a href="#contact" className="hover:text-blue-400">Contact</a></li>
         <a
-            href="https://ramameiyappan.github.io/portfolio/ramameiyappanrm_resume.pdf"
+            href="https://ramameiyappan.github.io/portfolio/ramameiyappan_rm_resume.pdf"
             download
             className="px-4 py-2 rounded-lg bg-blue-500/70 hover:bg-blue-500 transition"
         >

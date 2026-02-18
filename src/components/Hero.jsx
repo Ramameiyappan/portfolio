@@ -27,7 +27,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://ramameiyappan.github.io/portfolio/ramameiyappanrm_resume.pdf"
+              href="https://ramameiyappan.github.io/portfolio/ramameiyappan_rm_resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-xl glass hover:border-blue-400 transition"
